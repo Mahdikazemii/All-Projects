@@ -5,13 +5,19 @@
 https://colab.research.google.com/drive/1EKNpgwuTnyp3xwFd_y-gSuZ7ws_PZvc9?authuser=2#scrollTo=cGs9F3RcKK6N
 
 
-
 -----------------------------------------------------------------------------------------------------------------------------------
+
+
+لینک کولب: همکاری با شرکت مس سرچشمه رفسنجان و segmentation تصویر با yolov8n
+
+https://colab.research.google.com/drive/1FgsTPVX--3O1jx5IP_huK7naC5o_0Ca0?authuser=3#scrollTo=VV7ISS64Op84
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 لینک کولب:محاسبه تبدیل فوریه یک تصویر و سپس اعمال تبدیل فوریه معکوس و بازسازی تدریجی آن تصویر
 
 https://colab.research.google.com/drive/15a6VCmCpmyhBLWiNnNtK-UPzwZLx2GVI?authuser=1#scrollTo=iJwmLkDZ-e7b 
-
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
@@ -22,13 +28,11 @@ https://colab.research.google.com/drive/15a6VCmCpmyhBLWiNnNtK-UPzwZLx2GVI?authus
 https://colab.research.google.com/drive/1_JWQeB8YCiDPGvUq9PmYBu61cEBac8B_?authuser=1#scrollTo=qz6wuabNCsqp
 
 
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 لینک کولب: پیدا کردن بهینه ترین مدار منطقی با الگوریتم ژنتیک که با گرفتن ورودی های مختلف ,خروجی های مدنظر ما را تولید کند. به مرور مدارهایی که این خروجی ها را تولید میکنند پیدا میشوند و میتوان با مقایسه ان ها بهینه ترین مدار را پیدا کرد.هر کروموزم یک مدار و هر ژن دارای دو ورودی و یک گیت منطقی و یک خروجی است...
 
 https://colab.research.google.com/drive/1vAf5Fg1RRY0BxFkMqtqXAlM54FzOA0w3?authuser=1#scrollTo=PhTgmxJGtVSd 
-
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -38,13 +42,11 @@ https://colab.research.google.com/drive/1vAf5Fg1RRY0BxFkMqtqXAlM54FzOA0w3?authus
 https://colab.research.google.com/drive/1aY_jxjoKzird5tqq2sqFCDelq43eBRUK?authuser=1#scrollTo=FfYbU2ww9kWH
 
 
-
 -----------------------------------------------------------------------------------------------------------------------------------
 
 لینک کولب: بهبود تصویر با histogram equalization 
 
 https://colab.research.google.com/drive/1HPMYOkBc8XBD3YWMXeNt9rcib8WR6fr6?authuser=2#scrollTo=Akvqrcqo-48o
-
 
 
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -54,5 +56,7 @@ https://colab.research.google.com/drive/1HPMYOkBc8XBD3YWMXeNt9rcib8WR6fr6?authus
 https://colab.research.google.com/drive/1xRZwRNuF8wGCQGb3xdK_K_FHn_BUSvnY?authuser=2#scrollTo=duk49rETSLSV
 
 
-
 ----------------------------------------------------------------------------------------------------------------------------------
+
+
+-
