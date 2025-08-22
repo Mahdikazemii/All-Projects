@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1EKNpgwuTnyp3xwFd_y-gSuZ7ws_PZvc9?authus
 -----------------------------------------------------------------------------------------------------------------------------------
 
 
-لینک کولب: همکاری با شرکت مس سرچشمه رفسنجان و segmentation تصویر با yolov8n
+لینک کولب: segmentation تصویر با yolov8n
 https://colab.research.google.com/drive/1FgsTPVX--3O1jx5IP_huK7naC5o_0Ca0?authuser=3#scrollTo=VV7ISS64Op84
 
 
